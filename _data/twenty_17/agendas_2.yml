@@ -1,5 +1,36 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- data: 23/10 - 18h30 ás 21h
+  local: AUDITÓRIO TÉRREO - BLOCO A
+  titulo: <u>DEMOCRACIA E CIDADANIA NO SÉCULO XXI</u></br>
+  info: <u>Mesa de Abertura</u><br>Profa. Dra. Roberta Gontijo (Reitora/UCSAL)<br><b>Prof. Dr. Deivid Carvalho Lorenzo (Pró-Reitor Acadêmico/UCSAL)<br>Profa. Dra. Silvana Sá de Carvalho (Coordenadora de Pós-Graduação, Pesquisa e Mobilidade Acadêmica/UCSAL)</b>
+  convidados: Prof. Dr. Dirley da Cunha Júnior (UCSAL)</br>Dra. Alessia Tuxá (Defensoria Pública/Indígena)
+  moderação: Profa. Dra. Aparecida Netto Teixeira (UCSAL) 
+  link: url
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- data: 24/10 - 8h ás 9h 30
+  local: AUDITÓRIO DA PÓS- BLOCO C
+  titulo: <u>EIXO 3: Direitos Sociais, Educação, Cultura e Cidadania </u><br>
+  info: "<u>Mesa-redonda:: RELAÇÕES FAMILIARES E DESENVOLVIMENTO SOCIAL SUSTENTÁVEL</u><br><b>Participantes: Profa. Dra. Ana Barreiros de Carvalho (UEFS)</br>Laíse da Cruz Macena (UEFS)</b><br>
+  convidados: <br></br>
+  moderação: <br></br>
+  coordenação: <b> Prof. Dr. Giancarlo Petrini (UCSAL)</b>
+  link: url
+
+- data: 24/10 - 8h ás 9h 30
+  local: AUDITÓRIO TÉRREO - BLOCO A
+  tiulo: <u>EIXO 1: Questões Urbanas e Sociais Contemporâneas</u><br>
+  info: <u> Mesa-redonda: PSICANÁLISE E SUA CONTRIBUIÇÃO PARA A REFORMA PSIQUIÁTRICA NO BRASIL</br><b> Participantes:Prof. Me. Júlio César Hoenisch (UCSAL)</br> Saulo Machado Cunha (UCSAL)</br>Maria Isaura Perdiz (UCSAL)</br>
+  convidados:  (none)
+  moderação: (none)
+  coordenação: <u>Prof. Me. Júlio César Hoenisch (UCSAL)</u>
+  link: url
+
+- data: 24/10 - 8h às 9h30
+  local: AUDITÓRIO BIBLIOTECA - BLOCO A
+  titulo: <u>EIXO 3: Direitos Sociais, Educação, Cultura e Cidadania</u></br>
+  info: <u>Mesa-redonda: PASSADO, PRESENTE E FUTURO DA SALA DE AULA: O DESAFIO DE SER EDUCADOR NO CONTEXTO DA MODERNIDADE</br> Participantes: Prof. Me. Rosival Oliveira de Carvalho (UCSAL)</br> Prof. Me. Carlos Alberto Coutinho (UCSAL)</br>
+  convidados: (none)
+  moderação: (none)
+  coordenação: <u> Prof. Me. Rosival Oliveira de Carvalho (UCSAL)
+  link: url
+
+
